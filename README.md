@@ -1,2 +1,3 @@
 # Picture Memory Game
-A picture clicking memory game built with React
+
+A basketball themed picture clicking memory game built with React

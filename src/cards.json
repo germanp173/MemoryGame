@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name": "Michael Jordan",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Jordan_by_Lipofsky_16577.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "LeBron James",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Lebronred.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Stephen Curry",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Stephen_Curry_shooting.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "James Harden",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/James_Harden_%2830852408515%29.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Kevin Durant",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Durant.png",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Chris Paul",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Chris_Paul_%2831585840292%29.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Anthony Davis",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Anthony_Davis_%2838464014214%29.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "Kyrie Irving",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Kyrie_Irving_2015.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Victor Oladipo",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Victor_Oladipo_%2839060706270%29_crop.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Ben Simmons",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Ben_Simmons.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Joel Embiid",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Joel_Embiid_2018.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Russell Westbrook",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Russell_Westbrook_%2832077032673%29.jpg",
+        "clicked": false
+    },
+    {
+        "id": 13,
+        "name": "Paul Geroge",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/PaulGeorge.jpg",
+        "clicked": false
+    },
+    {
+        "id": 14,
+        "name": "John Wall",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/John_Wall_%2823457961226%29.jpg",
+        "clicked": false
+    },
+    {
+        "id": 15,
+        "name": "Klay Thompson",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Klay_Thompson_%2816614748116%29.jpg",
+        "clicked": false
+    },
+    {
+        "id": 16,
+        "name": "Dwyane Wade",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Dwyane_Wade_e1.jpg",
+        "clicked": false
+    },
+    {
+        "id": 17,
+        "name": "Kobe Bryant",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Kobe_Bryant_Drives2.jpg",
+        "clicked": false
+    },
+    {
+        "id": 18,
+        "name": "Shaquille O'Neal",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Shaquille_O%27Neal1.jpg",
+        "clicked": false
+    }
+]
