@@ -3,7 +3,6 @@ import GameBoard from './components/GameBoard';
 import Card from './components/Card';
 import ScoreBoard from './components/ScoreBoard';
 import cards from './cards.json';
-import './App.css';
 
 class App extends Component {
 
