@@ -2,8 +2,8 @@ import React from 'react';
 
 function ScoreBoard(props) {
     return (
-        <div className="jumbotron text-center">
-            <h1 className="display-4">Memory Game - NBA Edition</h1>
+        <div className="jumbotron text-center text-white">
+            <h2>Memory Game - NBA Edition</h2>
             <p>Click each picture one time!</p>
             <div className="row">
                 <div className="col-sm-4">
